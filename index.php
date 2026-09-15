@@ -94,5 +94,10 @@
             <p>Je werkt aan programmeeropdrachten, websites en projecten. Planning is belangrijk.</p>
         </section>
     </main>
+    <footer>
+        <p>Curio leren ontwikkelen doen</p>
+        <p>Curio Software Developer</p>
+        <p>Open Dag - Bouw de toekomst met code</p>
+    </footer>
 </body>
 </html>
