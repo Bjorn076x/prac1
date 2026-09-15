@@ -45,3 +45,26 @@ body {
     font-size: 48px;
     margin-bottom: 10px;
 }
+
+.vakken {
+    padding: 40px;
+}
+
+.grid-vakken {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+}
+
+.vak {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.extra {
+    padding: 40px;
+    background: #fff;
+    margin-top: 20px;
+}
