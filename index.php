@@ -75,25 +75,24 @@
             </div>
         </section>
 
-<section class="extra">
-    <h2>De mogelijkheid om te versnellen</h2>
-    <p>Als je goede resultaten haalt, kun je versnellen en sneller je diploma behalen.</p>
+        <section class="extra">
+            <h2>De mogelijkheid om te versnellen</h2>
+            <p>Als je goede resultaten haalt, kun je versnellen en sneller je diploma behalen.</p>
 
-    <h2>Vakanties</h2>
-    <ul>
-        <li>Herfstvakantie</li>
-        <li>Kerstvakantie</li>
-        <li>Meivakantie</li>
-        <li>Zomervakantie</li>
-    </ul>
+            <h2>Vakanties</h2>
+            <ul>
+                <li>Herfstvakantie</li>
+                <li>Kerstvakantie</li>
+                <li>Meivakantie</li>
+                <li>Zomervakantie</li>
+            </ul>
 
-    <h2>Zak / Slaag-regeling</h2>
-    <p>Nederlands, Engels en Rekenen zijn generieke vakken die je moet afronden.</p>
+            <h2>Zak / Slaag-regeling</h2>
+            <p>Nederlands, Engels en Rekenen zijn generieke vakken die je moet afronden.</p>
 
-    <h2>Wat kun je verwachten van huiswerk?</h2>
-    <p>Je werkt aan programmeeropdrachten, websites en projecten. Planning is belangrijk.</p>
-</section>
-
-</main>
+            <h2>Wat kun je verwachten van huiswerk?</h2>
+            <p>Je werkt aan programmeeropdrachten, websites en projecten. Planning is belangrijk.</p>
+        </section>
+    </main>
 </body>
 </html>
