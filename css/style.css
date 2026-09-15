@@ -68,3 +68,21 @@ body {
     background: #fff;
     margin-top: 20px;
 }
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #222;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .hero-content h1 {
+        font-size: 32px;
+    }
+}
